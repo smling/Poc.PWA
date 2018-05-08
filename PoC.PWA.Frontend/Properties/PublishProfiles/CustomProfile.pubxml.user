@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+This file is used by the publish/package process of your Web project. You can customize the behavior of this process
+by editing this MSBuild file. In order to learn more about this please visit https://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <_PublishTargetUrl>C:\pwa</_PublishTargetUrl>
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include="app.css">
+      <publishTime>05/08/2018 10:04:29</publishTime>
+    </File>
+    <File Include="app.js">
+      <publishTime>05/08/2018 10:06:05</publishTime>
+    </File>
+    <File Include="bin/TypeScriptHTMLApp1.dll">
+      <publishTime>05/08/2018 10:07:28</publishTime>
+    </File>
+    <File Include="bin/TypeScriptHTMLApp1.pdb">
+      <publishTime>05/08/2018 10:07:28</publishTime>
+    </File>
+    <File Include="favicon.ico">
+      <publishTime>05/08/2018 10:04:50</publishTime>
+    </File>
+    <File Include="images/clear.png">
+      <publishTime>05/08/2018 10:04:51</publishTime>
+    </File>
+    <File Include="images/cloudy-scattered-showers.png">
+      <publishTime>05/08/2018 10:04:51</publishTime>
+    </File>
+    <File Include="images/cloudy.png">
+      <publishTime>05/08/2018 10:04:51</publishTime>
+    </File>
+    <File Include="images/cloudy_s_sunny.png">
+      <publishTime>05/08/2018 10:04:51</publishTime>
+    </File>
+    <File Include="images/fog.png">
+      <publishTime>05/08/2018 10:04:51</publishTime>
+    </File>
+    <File Include="images/icons/icon-128x128.png">
+      <publishTime>05/08/2018 10:04:51</publishTime>
+    </File>
+    <File Include="images/icons/icon-144x144.png">
+      <publishTime>05/08/2018 10:04:51</publishTime>
+    </File>
+    <File Include="images/icons/icon-152x152.png">
+      <publishTime>05/08/2018 10:04:51</publishTime>
+    </File>
+    <File Include="images/icons/icon-192x192.png">
+      <publishTime>05/08/2018 10:04:51</publishTime>
+    </File>
+    <File Include="images/icons/icon-256x256.png">
+      <publishTime>05/08/2018 10:04:51</publishTime>
+    </File>
+    <File Include="images/icons/icon-32x32.png">
+      <publishTime>05/08/2018 10:04:51</publishTime>
+    </File>
+    <File Include="images/ic_add_white_24px.svg">
+      <publishTime>05/08/2018 10:04:51</publishTime>
+    </File>
+    <File Include="images/ic_refresh_white_24px.svg">
+      <publishTime>05/08/2018 10:04:51</publishTime>
+    </File>
+    <File Include="images/partly-cloudy.png">
+      <publishTime>05/08/2018 10:04:51</publishTime>
+    </File>
+    <File Include="images/rain.png">
+      <publishTime>05/08/2018 10:04:51</publishTime>
+    </File>
+    <File Include="images/scattered-showers.png">
+      <publishTime>05/08/2018 10:04:51</publishTime>
+    </File>
+    <File Include="images/sleet.png">
+      <publishTime>05/08/2018 10:04:51</publishTime>
+    </File>
+    <File Include="images/snow.png">
+      <publishTime>05/08/2018 10:04:51</publishTime>
+    </File>
+    <File Include="images/thunderstorm.png">
+      <publishTime>05/08/2018 10:04:51</publishTime>
+    </File>
+    <File Include="images/wind.png">
+      <publishTime>05/08/2018 10:04:51</publishTime>
+    </File>
+    <File Include="index.html">
+      <publishTime>05/08/2018 10:04:53</publishTime>
+    </File>
+    <File Include="manifest.json">
+      <publishTime>05/08/2018 10:04:50</publishTime>
+    </File>
+    <File Include="scripts/app.js">
+      <publishTime>05/08/2018 10:04:51</publishTime>
+    </File>
+    <File Include="service-worker.js">
+      <publishTime>05/08/2018 10:04:51</publishTime>
+    </File>
+    <File Include="styles/inline.css">
+      <publishTime>05/08/2018 10:04:51</publishTime>
+    </File>
+    <File Include="Web.config">
+      <publishTime>05/08/2018 10:06:05</publishTime>
+    </File>
+  </ItemGroup>
+</Project>

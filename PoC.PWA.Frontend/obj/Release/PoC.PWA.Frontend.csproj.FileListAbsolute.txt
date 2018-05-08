@@ -1,0 +1,6 @@
+C:\Users\chunho.ling\source\repos\Poc.PWA\PoC.PWA.Frontend\bin\TypeScriptHTMLApp1.dll.config
+C:\Users\chunho.ling\source\repos\Poc.PWA\PoC.PWA.Frontend\bin\TypeScriptHTMLApp1.dll
+C:\Users\chunho.ling\source\repos\Poc.PWA\PoC.PWA.Frontend\bin\TypeScriptHTMLApp1.pdb
+C:\Users\chunho.ling\source\repos\Poc.PWA\PoC.PWA.Frontend\obj\Release\PoC.PWA.Frontend.csproj.CoreCompileInputs.cache
+C:\Users\chunho.ling\source\repos\Poc.PWA\PoC.PWA.Frontend\obj\Release\TypeScriptHTMLApp1.dll
+C:\Users\chunho.ling\source\repos\Poc.PWA\PoC.PWA.Frontend\obj\Release\TypeScriptHTMLApp1.pdb
